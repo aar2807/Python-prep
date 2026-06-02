@@ -1,5 +1,21 @@
-# Aarna’s Skill Repo
-Documenting my coding journey and saving projects here.
+# My Engineering Foundations
 
-## Started: June 12, 2025
+Documenting my journey from beginner programmer to software and AI engineer.
 
+## Current Learning
+- Python
+- Git & GitHub
+- SQL
+
+## Upcoming Topics
+- Data Structures & Algorithms
+- Machine Learning
+- AI Fundamentals
+
+## Repository Structure
+- Python Basics
+- Practice Programs
+- Mini Projects
+- Notes
+
+Started: June 2025
