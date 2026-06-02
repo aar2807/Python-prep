@@ -1,11 +1,7 @@
-# Aarna’s Prep Repo
+# Aarna’s Skill Repo
+Documenting my coding journey and saving projects here.
 
-Welcome to my journey to master Python, DSA, and core tech skills before college begins in 2025.
+## Started: June 12, 2025
 
-## 🎯 Goal
-Prep daily from **3–7 PM** with full focus. Python, GitHub, Notion, mini-projects, and UPSC basics.
-
-## 📅 Started: June 12, 2025
-
-## ✅ Track Log
+## Track Log
 - June 11, 2025: Repo created
